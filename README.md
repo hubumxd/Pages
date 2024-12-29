@@ -75,7 +75,7 @@
     </div>
 
     <div class="knowledge">
-        <h2>我的知识点</h2>
+        <h2>学习心得体会</h2>
         <div class="knowledge-item">
             <h3>JavaScript</h3>
             <p>JavaScript 是一种广泛使用的编程语言，主要用于网页开发。它使网页具有互动性和动态效果。</p>
