@@ -45,7 +45,7 @@
 </head>
 <body>
     <div class="header">
-        <img src="https://example.com/your-image.jpg" alt="Profile Photo" class="profile-img">
+        <img src=b_5780fd8353480421da66102fe6b971f0.jpg alt="Profile Photo" class="profile-img">
         <h1 class="name">hubumxd</h1>
         <p class="bio">Your bio goes here.</p>
         <div class="contact">
