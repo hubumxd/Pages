@@ -9,11 +9,17 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
-            background-color: #f7f7f7;
+            background-image: url('5ba2a25e91d850bf68138e0c291b1b05.jpeg');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            color: #fff; /* 设置字体颜色为白色以便于在背景上阅读 */
         }
         .header {
             text-align: center;
             padding: 20px;
+            background-color: rgba(0, 0, 0, 0.5); /* 半透明背景以增强可读性 */
+            border-radius: 10px;
         }
         .profile-img {
             border-radius: 50%;
@@ -38,13 +44,14 @@
             text-align: center;
         }
         .knowledge-item {
-            background: white;
+            background: rgba(255, 255, 255, 0.8); /* 半透明白色背景 */
             border: 1px solid #ddd;
             border-radius: 5px;
             padding: 15px;
             margin: 10px auto;
             width: 80%;
             max-width: 600px;
+            color: #333; /* 设置知识点文字颜色 */
         }
         .contact {
             margin-top: 40px;
@@ -85,14 +92,12 @@
             <h3>Git & GitHub</h3>
             <p>Git 是一个版本控制工具，用于跟踪文件更改。GitHub 是一个托管 Git 项目的平台，支持协作和版本管理。</p>
         </div>
-        <!-- 可以继续添加更多知识点 -->
     </div>
 
     <div class="contact">
         <h2>联系方式</h2>
         <a href="mailto:a19171500936@163.com">Email</a>
         <a href="https://github.com/hubumxd" target="_blank">GitHub</a>
-        <!-- 添加其他联系方式 -->
     </div>
 </body>
 </html>
