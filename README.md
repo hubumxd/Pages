@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub用户主页</title>
+    <title>hubumxd</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -46,10 +46,10 @@
 <body>
     <div class="header">
         <img src="profile.jpg" alt="Profile Photo" class="profile-img">
-        <h1 class="name">Your Name</h1>
+        <h1 class="name">mxd</h1>
         <p class="bio">Your bio goes here.</p>
         <div class="contact">
-            <a href="mailto:your-email@example.com">Email</a>
+            <a href="mailto:a19171500936@163.com">Email</a>
             <a href="https://github.com/your-username" target="_blank">GitHub</a>
             <!-- 添加更多联系方式 -->
         </div>
