@@ -62,7 +62,7 @@
 </head>
 <body>
     <div class="header">
-        <img src="https://example.com/your-image.jpg" alt="Profile Photo" class="profile-img">
+        <img src=b_5780fd8353480421da66102fe6b971f0.jpg alt="Profile Photo" class="profile-img">
         <h1 class="name">hubumxd</h1>
         <p class="bio">欢迎来到我的个人主页！我是一名热爱编程和开源的开发者。</p>
     </div>
@@ -91,7 +91,7 @@
     <div class="contact">
         <h2>联系方式</h2>
         <a href="mailto:a19171500936@163.com">Email</a>
-        <a href="https://github.com/hubumxd" target="_blank">GitHub</a>
+        <a href="https://github.com/dashboard" target="_blank">GitHub</a>
         <!-- 添加其他联系方式 -->
     </div>
 </body>
