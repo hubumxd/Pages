@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -62,7 +61,7 @@
 </head>
 <body>
     <div class="header">
-        <img src="https://example.com/b_5780fd8353480421da66102fe6b971f0.jpg" alt="Profile Photo" class="profile-img">
+        <img src="https://your-actual-url.com/b_5780fd8353480421da66102fe6b971f0.jpg" alt="Profile Photo" class="profile-img">
         <h1 class="name">hubumxd</h1>
         <p class="bio">欢迎来到我的个人主页！我是一名热爱编程和开源的开发者。</p>
     </div>
