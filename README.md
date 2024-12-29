@@ -70,16 +70,17 @@
         }
         .contact h2 {
             font-size: 24px; /* 增加字体大小 */
+            color: #000; /* 设置标题颜色为黑色 */
         }
         .contact a {
             text-decoration: none;
             margin: 0 10px;
-            color: #007bff;
+            color: #000; /* 设置链接颜色为黑色 */
             font-weight: bold; /* 加粗链接 */
         }
         .contact a:hover {
             text-decoration: underline;
-            color: #0056b3; /* 悬停时改变颜色 */
+            color: #555; /* 悬停时改变颜色 */
         }
     </style>
 </head>
